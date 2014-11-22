@@ -26,6 +26,7 @@
 #!/public/themes/alternate
 #!/public/themes/classic
 #!/public/themes/README
+#!/public/themes/flat-theme
 /tmp/*
 /tmp/cache/*
 /tmp/pdf/*
