@@ -25,7 +25,6 @@
 #/public/themes/*
 #!/public/themes/alternate
 #!/public/themes/classic
-#!/public/themes/flat
 #!/public/themes/README
 /tmp/*
 /tmp/cache/*
