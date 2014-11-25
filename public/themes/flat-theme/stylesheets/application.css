@@ -808,3 +808,7 @@ table.list tbody tr td{
 #content {
   width: 80%;
 }
+#login-form table {
+  background: none;
+  border: 1px solid #d92e47;
+}
