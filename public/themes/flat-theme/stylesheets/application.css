@@ -185,7 +185,7 @@ input[type="week"] {
   text-align: left;
   font-size: 13px;
   font-family: Arial, "Liberation Sans", FreeSans, sans-serif;
-  height: 2em;
+  height: 2.3em;
   vertical-align: top;
   *padding-top: 2px;
   *padding-bottom: 1px;
@@ -518,7 +518,7 @@ body {
 
 h1, h2, h3, h4 {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 a, a:link, a:visited {
@@ -811,4 +811,13 @@ table.list tbody tr td{
 #login-form table {
   background: none;
   border: 1px solid #d92e47;
+}
+
+div.issue div.subject h3 {
+  font-weight: 600;
+}
+#sidebar a.selected {
+  color: #5A79CF;
+  font-weight: 600;
+  background-color: transparent;
 }
